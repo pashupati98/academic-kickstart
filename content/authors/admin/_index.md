@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a final-year undergraduate student majoring in Polymer Science and Engineeing from the Indian Institute of Technology Roorkee. I'm a self-taught Machine Learning enthusiast with a demonstrated history of working with several IT industries including tech giants like IBM. Skilled in various Machine Learning frameworks and python development along with good management and team work skills.
+I'm a final-year undergraduate student majoring in Polymer Science and Engineeing from the Indian Institute of Technology Roorkee. I'm a Machine Learning enthusiast with a demonstrated history of working with several IT industries including tech giants like IBM. Skilled in various Machine Learning frameworks and python development along with good management and team work skills.
