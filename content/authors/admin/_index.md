@@ -21,7 +21,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Machine Learning
+- Deep Learning
 - Computer Vision
 - Natural Language Processing
 
@@ -30,8 +30,8 @@ education:
   - course: B.Tech (Polymer Science & Engineering)
     institution: Indian Institute of Technology Roorkee
     year: 2020
-  #- course: MEng in Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
+  #- institution: Massachusetts Institute of Technology
+  #  course: MEng in Artificial Intelligence
   #  year: 2009
   #- course: BSc in Artificial Intelligence
   #  institution: Massachusetts Institute of Technology
