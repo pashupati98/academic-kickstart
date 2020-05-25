@@ -22,7 +22,7 @@ organizations:
 
 interests:
 - Deep Learning
-- Computer Vision
+- Dialouge Systems
 - Natural Language Processing
 
 education:
