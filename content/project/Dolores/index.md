@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Jarvis"
-summary: "Jarvis is a chatbot specifically created to work as a StackOverflow Assiatant but it can also do some normal chit-chat"
-authors: ["admin"]
-tags: ["Deep Learning", "NLP", "Chatbot", "Dialouge System"]
+title: "Dolores"
+summary: "Dolores doesn't like offensive language. She can very precisely classify a text into offensive/Non-offensive"
+authors: []
+tags: []
 categories: []
-date: 2020-05-26T22:05:11+05:30
+date: 2020-05-26T22:02:51+05:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,10 +39,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Jarvis is a chatbot specifically created to work as a StackOverflow Assiatant but it can also do some normal chit-chat
+Dolores doesn't like offensive language. She can very precisely classify a text into offensive/Non-offensive
 
-#### Checkout the running bot on Telegram.
+Link to the running App - [https://thedolores.herokuapp.com/](https://thedolores.herokuapp.com/)
 
-Talk to the bot - [Chatbot Link](http://t.me/ppt98_bot)
+Documentation - [Read on Medium](https://medium.com/analytics-vidhya/building-a-text-classification-model-using-bilstm-c0548ace26f2)
 
-The bot is running on an AWS EC2 instance. EC2 instance automatically turns off after a long time of inactivity. If the bot is not replying let me know I with turn it on. 
+GitHub - [Repository](https://github.com/pashupati98/Text-Classification)
+
+Thank you!

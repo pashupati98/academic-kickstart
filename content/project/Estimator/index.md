@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Predicator"
-summary: "Predicator is a Machine Learning enabled platform to predict critical chain length of a polymer corresponding to its saturated solubility parameter."
+title: "Estimator"
+summary: "Estimator is a Machine Learning enabled platform to estimate critical chain length of a polymer corresponding to its saturated solubility parameter."
 authors: ["admin"]
 tags: ["Machine Learning", "Polymers"]
 categories: []
@@ -39,10 +39,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Predicator is a Machine Learning enabled platform to predict critical chain length of a polymer corresponding to its saturated solubility parameter.
+Estimator is a Machine Learning enabled platform to predict critical chain length of a polymer corresponding to its saturated solubility parameter.
 
 Checkout the product -
-[Predicator](https://polypredictor.herokuapp.com/)
+[Estimator](https://polypredictor.herokuapp.com/)
 
 Cover Image Credits - 
 [Science-In-Chains](https://science-in-chains.natfak2.uni-halle.de/microscopic-insight/)
