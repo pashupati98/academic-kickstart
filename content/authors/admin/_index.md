@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a final-year undergraduate student at the Indian Institute of Technology Roorkee. I'll be joining Wells Fargo EGS India as a Data Scientist. My area of interests mainly iclines towards Deep Learning especially in Natural Language Processing. I have demonstrated history of working with several IT industries including tech giants like IBM. I'm skilled in various Deep Learning frameworks and python development along with good management and team work skills.
+I'm a final-year undergraduate student at the Indian Institute of Technology Roorkee. My area of interests mainly iclines towards Deep Learning especially in Natural Language Processing. I have demonstrated history of working with several IT industries including tech giants like IBM. I'm skilled in various Deep Learning frameworks and python development along with good management and team work skills.
